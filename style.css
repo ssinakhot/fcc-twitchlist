@@ -1,0 +1,45 @@
+.list-group img {
+  width:50px;
+  height:50px
+}
+
+.list-group label {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
+.custom-margin {
+  margin: 0px 0px -5px 0px;
+}
+.pagination a {
+  width: 134px;
+  text-align: center;
+ -webkit-border-radius: 0 !important;
+ -moz-border-radius: 0 !important;
+  border-radius: 0 !important;
+}
+
+.streamerList span {
+  position: absolute;
+  top: 42px;
+  left: 74px;
+  color: grey;
+  font-size: 10px;
+}
+
+.streamerList i {
+  position: absolute;
+  right:5px;
+  top: 25px;
+}
+
+
+.size {
+  width:400px;
+}
